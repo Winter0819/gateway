@@ -9,7 +9,7 @@
         <version>2.1.2.RELEASE</version>
     </parent>
     <groupId>com.winter0819</groupId>
-    <artifactId>usercenter</artifactId>
+    <artifactId>gateway</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>gateway</name>
     <description>Demo project for Spring Boot</description>
